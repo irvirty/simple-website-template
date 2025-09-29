@@ -20,8 +20,8 @@ Main license: CC BY-SA 4.0
 ---  
    
 ## GitHub Explore, topics:
-[Website-template](https://github.com/topics/website-template),  
+[Website template](https://github.com/topics/website-template),  
 [Website](https://github.com/topics/website),
-[Cloudflare Pages](https://github.com/topics/cloudflare-pages),
+[Cloudflare pages](https://github.com/topics/cloudflare-pages),
 [HTML](https://github.com/topics/HTML),
 [CSS](https://github.com/topics/CSS),
