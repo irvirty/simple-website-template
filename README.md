@@ -17,11 +17,13 @@ Main license: CC BY-SA 4.0
   
 [Download ZIP](https://github.com/irvirty/simple-website-template/archive/refs/heads/main.zip)
   
+<!--
 ---  
    
 ## GitHub Explore, topics:
-[Website template](https://github.com/topics/website-template),  
-[Website](https://github.com/topics/website),
-[Cloudflare pages](https://github.com/topics/cloudflare-pages),
 [HTML](https://github.com/topics/HTML),
 [CSS](https://github.com/topics/CSS),
+[Website](https://github.com/topics/website),
+[Cloudflare Pages](https://github.com/topics/cloudflare-pages),
+[Website template](https://github.com/topics/website-template), 
+-->
